@@ -35,6 +35,7 @@ Be prepared to answer questions such as these:
 
 You will be peer reviewed by your classmates and get feedback from Jens and Thomas. Our evaluation will revolve around these questions:
 
+
 - How interesting is your story?
 - Does the user get the message? 
 - Is the presentation aesthetic and well designed?
@@ -43,11 +44,13 @@ Creativity is always highly appreciated.
 
 ## Classes
 
-8.12	Introduction
-9.12	Workshop about finding and researching the story in data with Paloma Pérez Lucero from TT.
-10.12	Workshop about visualizing data with Information is beautiful.
-12.12	Excel workshop. Analyze data with pivot tables.
-15.12	Visualizing data online with Daniel Lapidus.
-14.1	Mid-term presentations
-15.1	Canvas magic and HTML5 with Cas Lemmens.
-29.1	Final presentaions
+Date | Class
+---|---
+8.12 | Introduction
+9.12 | Workshop about finding and researching the story in data with Paloma Pérez Lucero from TT.
+10.12 | Workshop about visualizing data with Information is beautiful.
+12.12 | Excel workshop. Analyze data with pivot tables.
+15.12 | Visualizing data online with Daniel Lapidus.
+14.1 | Mid-term presentations
+15.1 | Canvas magic and HTML5 with Cas Lemmens.
+29.1 | Final presentaions
