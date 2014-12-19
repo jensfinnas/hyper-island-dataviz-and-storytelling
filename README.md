@@ -51,6 +51,6 @@ Date | Class
 10.12 | Workshop about visualizing data with Information is beautiful.
 12.12 | Excel workshop. Analyze data with pivot tables.
 15.12 | Visualizing data online with Daniel Lapidus. Starts at 9:30.
-14.1 | Mid-term presentations
+14.1, 9:00-12:00 | Mid-term presentations
 15.1 | Canvas magic and HTML5 with Cas Lemmens.
-29.1 | Final presentaions
+29.1, 9:00-14:00 | Final presentaions
