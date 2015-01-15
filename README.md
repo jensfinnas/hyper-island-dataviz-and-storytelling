@@ -22,13 +22,14 @@ We will do mid-term presentations on January 14th. Each group gets 3 minutes to 
 
 At this point you should have an idea of what data you want to work with and what story you would like to tell. Use this presentation to get feedback on your work so far and how to proceed.
 
-The final presentations will be on Thursday, January 29th. On Tuesday, January 27th, 23:59 you should submit your work for online evaluation.
+The final presentations will be on Thursday, January 29th. On Tuesday, January 27th, 23:59 you should submit your work for evaluation by sharing a link. Presentations should be available online.
 
-Be prepared to answer questions such as these:
+You will get 15 minutes to present in front of the class, including questions and comments. Be prepared to answer questions such as these:
 
 - What do you want to say?
 - What is the purpose?
 - Who is the audience?
+- What data did you use?
 - Why did you choose this form?
 
 #### How will you be evaulated?
